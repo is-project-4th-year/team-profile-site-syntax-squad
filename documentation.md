@@ -4,7 +4,7 @@
 
 - Elvis Otengo
 - Alvin Maseno
-- 
+- Keya Ochieng'
 - 
 - 
 - 
