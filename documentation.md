@@ -12,3 +12,5 @@
 
 ## Lessons Learnt from the GitHub Crash Program
 
+- rebase causes crashes
+- git squash gives a simplified git grapgh
