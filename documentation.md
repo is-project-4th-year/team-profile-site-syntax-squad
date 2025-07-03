@@ -12,3 +12,4 @@
 
 ## Lessons Learnt from the GitHub Crash Program
 
+- rebase causes crashes
