@@ -12,3 +12,4 @@
 
 ## Lessons Learnt from the GitHub Crash Program
 
+- squash provides a simplified git grapgh
